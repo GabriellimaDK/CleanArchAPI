@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHostingCleanArch.Api", "DinnerHostingCleanArch\DinnerHostingCleanArch.Api.csproj", "{C7CE435A-3227-4039-9941-E929170EDCAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Contracts", "DinnerHosting.Contracts\DinnerHosting.Contracts.csproj", "{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Infrastructure", "DinnerHosting.Infrastructure\DinnerHosting.Infrastructure.csproj", "{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Application", "DinnerHosting.Application\DinnerHosting.Application.csproj", "{2A54EE98-667A-48C8-8A58-C6BA5F573112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Domain", "DinnerHosting.Domain\DinnerHosting.Domain.csproj", "{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CE435A-3227-4039-9941-E929170EDCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CE435A-3227-4039-9941-E929170EDCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CE435A-3227-4039-9941-E929170EDCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CE435A-3227-4039-9941-E929170EDCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A54EE98-667A-48C8-8A58-C6BA5F573112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A54EE98-667A-48C8-8A58-C6BA5F573112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A54EE98-667A-48C8-8A58-C6BA5F573112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A54EE98-667A-48C8-8A58-C6BA5F573112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935D6D5E-83D2-47EF-8EAD-3C732D3C9D19}
+	EndGlobalSection
+EndGlobal
