@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\DinnerHosting.Application\DinnerHosting.Application.csproj" />
     <ProjectReference Include="..\DinnerHosting.Contracts\DinnerHosting.Contracts.csproj" />
     <ProjectReference Include="..\DinnerHosting.Infrastructure\DinnerHosting.Infrastructure.csproj" />
