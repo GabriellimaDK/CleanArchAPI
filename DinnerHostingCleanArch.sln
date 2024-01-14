@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHostingCleanArch.Api", "DinnerHostingCleanArch\DinnerHostingCleanArch.Api.csproj", "{C7CE435A-3227-4039-9941-E929170EDCAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHosting.Api", "DinnerHostingCleanArch\DinnerHosting.Api.csproj", "{C7CE435A-3227-4039-9941-E929170EDCAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Contracts", "DinnerHosting.Contracts\DinnerHosting.Contracts.csproj", "{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHosting.Contracts", "DinnerHosting.Contracts\DinnerHosting.Contracts.csproj", "{B7FB36E3-CDA6-4184-B3D2-BBB5218F9558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Infrastructure", "DinnerHosting.Infrastructure\DinnerHosting.Infrastructure.csproj", "{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHosting.Infrastructure", "DinnerHosting.Infrastructure\DinnerHosting.Infrastructure.csproj", "{EACA6DAD-AE8C-482D-B639-027AFED2CB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Application", "DinnerHosting.Application\DinnerHosting.Application.csproj", "{2A54EE98-667A-48C8-8A58-C6BA5F573112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHosting.Application", "DinnerHosting.Application\DinnerHosting.Application.csproj", "{2A54EE98-667A-48C8-8A58-C6BA5F573112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnerHosting.Domain", "DinnerHosting.Domain\DinnerHosting.Domain.csproj", "{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinnerHosting.Domain", "DinnerHosting.Domain\DinnerHosting.Domain.csproj", "{FC0C58B0-772F-4EE1-91BC-E03D697CCACC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
